@@ -21,6 +21,8 @@
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight"
+				"externalConsole": true
+
 			],
 			"settings": {
 				"editor.fontSize": 32,
