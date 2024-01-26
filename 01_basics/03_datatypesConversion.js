@@ -14,5 +14,10 @@ console.log(idNum);//nan not a number
 console.log(typeof idNum);//number
 console.log(typeof NaN);//number*/
 
+let id=null;
+console.log(null);
+console.log(typeof id);
+let idNum=
+
 //till now we have discuss about conversion of string to number what abt number to string
-let id=24;
+// let id=24;
